@@ -1,0 +1,34 @@
+Package: msktest
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    crayon (>= 1.3.4),
+    dplyr (>= 0.8.1),
+    fs (>= 1.3.1),
+    git2r (>= 0.25.2),
+    glue (>= 1.3.1),
+    here (>= 0.1),
+    lifecycle (>= 0.1.0),
+    purrr (>= 0.3.2),
+    R.utils (>= 2.8.0),
+    readr (>= 1.4.0),
+    remotes (>= 2.0.4),
+    renv (>= 0.13.1),
+    rlang (>= 0.3.4),
+    stringr (>= 1.4.0),
+    tibble (>= 2.1.2),
+    tidyr (>= 0.8.3),
+    usethis (>= 1.5.0),
+    rstudioapi,
+    covr,
+    gh (>= 1.1.0),
+    jsonlite
+RoxygenNote: 7.1.1
